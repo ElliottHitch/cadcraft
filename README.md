@@ -286,6 +286,7 @@ Drafting feedback is not an animation effect and stays as it is: rubber bands an
 See [ROADMAP.md](ROADMAP.md) for the stage, measured parity and the estimate of remaining work, and [docs/gaps.md](docs/gaps.md) for everything still missing.
 
 ## Downloads
+To build Windows packages for this fork, run the ArtCraft Launcher release workflow with a pinned source revision.
 
 **Download CADCraft** from GitHub: the [latest release](https://github.com/storytold/cadcraft/releases/latest) has every build listed below, and [all releases](https://github.com/storytold/cadcraft/releases) has earlier versions and their notes. `<ver>` in the file names is the version number, and `SHA256SUMS.txt` lists a checksum for every file.
 
