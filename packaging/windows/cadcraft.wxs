@@ -32,7 +32,7 @@
     <Icon Id="CadcraftIcon.ico" SourceFile="$(var.IconPath)" />
     <Property Id="ARPPRODUCTICON" Value="CadcraftIcon.ico" />
     <Property Id="ARPURLINFOABOUT" Value="https://getartcraft.com/apps/cadcraft" />
-    <Property Id="ARPURLUPDATEINFO" Value="https://getartcraft.com/apps/cadcraft" />
+    <Property Id="ARPURLUPDATEINFO" Value="https://github.com/ElliottHitch/cadcraft/releases" />
     <Property Id="ARPHELPLINK" Value="https://discord.gg/artcraft" />
 
     <StandardDirectory Id="ProgramFiles6432Folder">
